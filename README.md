@@ -1,3 +1,7 @@
+# DMM WEBCAMPコンテンツ【Railsを学ぼう】
+DMM WEBCAMPの学習コンテンツ Railsを学ぼうの学習内容です。
+<br>アプリ作成:環境ファイル設定:コントローラ作成:モデル作成:データベース作成:ビュー作成</br>
+
 # README
 
 This README would normally document whatever steps are necessary to get the
